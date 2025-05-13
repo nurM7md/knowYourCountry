@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 body{
-    background-image: url(./image/ChatGPT\ Image\ May\ 13\,\ 2025\,\ 08_35_40\ PM.png);
+    background-image: url(./image/backGround.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
