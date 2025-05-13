@@ -58,8 +58,8 @@ const FetchData = () => {
                       <td className="w-64 font-semibold break-words border text-cyandark border-cyandark">
                         {contry.name.common}
                       </td>
-                      <td className="w-64 font-semibold break-words border text-cyandark border-cyandark">
-                        {contry.flag}
+                      <td className="w-64 p-4 font-semibold break-words border text-cyandark border-cyandark">
+                        <img src={contry.flags.png} />
                       </td>
                       <td className="w-64 font-semibold break-words border text-cyandark border-cyandark">
                         {contry.capital}
