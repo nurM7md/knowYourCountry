@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6af6d77b.css",
+    "main.js": "/static/js/main.294d3f0d.js",
+    "static/media/ChatGPT Image May 13, 2025, 08_35_40 PM.png": "/static/media/ChatGPT Image May 13, 2025, 08_35_40 PM.9e85e4a3d3965e57501b.png",
+    "index.html": "/index.html",
+    "main.6af6d77b.css.map": "/static/css/main.6af6d77b.css.map",
+    "main.294d3f0d.js.map": "/static/js/main.294d3f0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6af6d77b.css",
+    "static/js/main.294d3f0d.js"
+  ]
+}
